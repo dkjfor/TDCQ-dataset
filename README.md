@@ -1,2 +1,2 @@
-Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and An Objective Metric
+Assessing Tone-Mapped Image Quality: A Large-scale Benchmark and an Objective Metric
 
